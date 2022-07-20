@@ -1,4 +1,4 @@
-module Thumbtack
+module Omniauth
   module Thumbtack
     VERSION = "0.1.0"
   end
